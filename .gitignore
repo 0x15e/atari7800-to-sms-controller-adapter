@@ -1,0 +1,4 @@
+﻿*.kicad_pcb-bak
+*.sch-bak
+atari7800-to-sms-controller-adapter/fp-info-cache
+atari7800-to-sms-controller-adapter/atari7800-to-sms-controller-adapter-cache.lib
